@@ -41,7 +41,7 @@ Let L_in = 1m, then with some basic math we get that F_in only has to be 4.9 lbs
 
 ## Nutcracker Design Diagram
 
-<img src="{{ "/assets/images/Macademia Nutcracker.png" | relative_url }}" alt="System diagram" width="400">
+<img src="{{ "/assets/images/Mnut.png" | relative_url }}" alt="System diagram" width="400">
 
 ## Usability Discussion
 
