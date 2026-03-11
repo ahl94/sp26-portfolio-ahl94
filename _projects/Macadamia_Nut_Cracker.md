@@ -7,7 +7,7 @@ image: /assets/images/Macademia Nut.png
 
 ## Find
 
-Design a simple hand-operated lever nutcracker that can crack a macadamia nut. The design should be feasible for a person to use by hand, and then it should be modified to use a linear actuator instead of hand grip force. A typical in-shell macadamia is about 20 mm and above in diameter, and published testing on whole macadamia nuts reports cracking forces around 488.4 lb, so the nutcracker must provide substantial mechanical advantage.
+Design a simple hand-operated lever nutcracker that can crack a macadamia nut. The design should be easy for a person to use by hand. A typical macadamia nut is 20 mm in diameter, and needs forces around 488.4 lb to crack, so the nutcracker must provide substantial mechanical advantage.
 ---
 
 ## Given
